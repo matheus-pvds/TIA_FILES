@@ -1,5 +1,10 @@
 # TIA Files — Academic Integrative Project (TIA)
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-5B4638?logo=Python&logoColor=white)
+
 An integrative university project (TIA — Trabalho Integrado Acadêmico) featuring a Jupyter Notebook that queries Brazilian municipal open data via the **Portal da Transparência API** and processes multiple CSV datasets for analysis.
 
 > **Note:** This repository is a duplicate/sibling of `IA_FILES`. See that repo for a more detailed description.
